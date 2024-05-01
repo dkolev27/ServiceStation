@@ -1,0 +1,9 @@
+Hyndai i10---B4235KT---car
+MAN---CA3455KK---truck
+Suzuki---CA3663KE---motorcycle
+Citroen C2---B2435AE---car
+MAN---CA9868PO---truck
+Iveco---TX5664TB---bus
+Peugeot---A3456BC---car
+Suzuki GSXR---CA4554KM---motorcycle
+BMW 318---B2355KT---car

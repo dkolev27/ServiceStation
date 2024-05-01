@@ -1,0 +1,6 @@
+Dimitar Dimitrov---STANDARD---Citroen C2---B2435AE---car
+Stoyan Stoyanov---FREE---Iveco---TX5664TB---bus
+Dimitar Dimitrov---STANDARD---Hyundai i10---B4355AM---car
+Ivan Ivanov---FREE---Peugeot---A3456BC---car
+Peter Petrov---STANDARD---Suzuki GSXR---CA4554KM---motorcycle
+Pavlin Yordanov---PREMIUM---BMW 318---B2355KT---car
